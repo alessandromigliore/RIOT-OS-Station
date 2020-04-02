@@ -6,7 +6,7 @@ Linkedin-Blog: https://www.linkedin.com/pulse/native-emulator-riot-os-run-your-s
 
 Youtube: https://www.youtube.com/watch?v=KrthcKJgHaA
 
-#SOURCES
+# SOURCES
 
 Eclipse paho MQTT-SN client: https://github.com/eclipse/paho.mqtt-sn.embedded-c
 
