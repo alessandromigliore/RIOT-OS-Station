@@ -6,13 +6,18 @@ Linkedin-Blog: https://www.linkedin.com/pulse/native-emulator-riot-os-run-your-s
 
 Youtube: https://www.youtube.com/watch?v=KrthcKJgHaA
 
-#SOURCES
+# SOURCES
 
 Eclipse paho MQTT-SN client: https://github.com/eclipse/paho.mqtt-sn.embedded-c
-Mosquitto MQTT broker to Thingsboard: http://busbyland.com/mosquitto-mqtt-broker-to-iot-hub-iot-edge/
+
+Mosquitto MQTT broker to Thingsboard: http://busbyland.com/mosquitto-mqtt-broker-to-iot-hub-iot-edge
+
 RIOT: https://github.com/RIOT-OS/RIOT
-Mosquitto MQTT bridge - Usage and Configuration: http://www.steves-internet-guide.com/mosquitto-bridge-configuration/
+
+Mosquitto MQTT bridge - Usage and Configuration: http://www.steves-internet-guide.com/mosquitto-bridge-configuration
+
 Broker configuration example through RIOT emCute module: https://github.com/RIOT-OS/RIOT/tree/master/examples/emcute_mqttsn
+
 LPSXXX family sensors driver for RIOT: https://github.com/RIOT-OS/RIOT/tree/master/drivers/lpsxxx
 
 
