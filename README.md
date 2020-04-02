@@ -33,5 +33,5 @@ Linkedin-Blog: https://www.linkedin.com/pulse/cloud-based-iot-system-collects-in
 Youtube : https://www.youtube.com/watch?v=F1R9aitPtrc
 
 
-#Acknowledgments
+# Acknowledgments
 Collection of assignments for the Internet of Things course of the MSc in Engineering in Computer Science at Sapienza Università di Roma
